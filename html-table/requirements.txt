@@ -1,0 +1,7 @@
+Install requests, pandas, bs4
+
+To extract all tables from this wikipedia page:
+Type on terminal:
+python html_table_extractor.py https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+    or
+python html_table_extractor.py Link URL
